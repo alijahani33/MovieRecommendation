@@ -1,5 +1,5 @@
 # Movie Recommendation System
-![Movie Recommendation System](F:\Ali\Python_project\MovieRecommendation\Images\a.png)
+![Movie Recommendation System](/Images/a.png)
 ## Overview
 
 The **Movie Recommendation System** is a web-based application that utilizes machine learning techniques to provide personalized movie recommendations based on user input. Built using **FastAPI** for the backend and **Streamlit** for the frontend, this application offers an intuitive interface for users to discover movies similar to their favorites.
@@ -54,8 +54,6 @@ The **Movie Recommendation System** is a web-based application that utilizes mac
 
 ### 7. Usage
 
-```markdown
-### Usage
 
 1. Open your web browser and navigate to `http://127.0.0.1:8000/docs` to access the FastAPI documentation and test the API endpoints.
 2. For the Streamlit application, open `http://localhost:8501` to interact with the movie recommendation system.
@@ -76,6 +74,6 @@ Contributions are welcome! If you have suggestions for improvements or new featu
 ## Contact
 
 For any inquiries or feedback, please reach out to:
-- **Your Name**: [your.email@example.com](mailto:your.email@example.com)
-- **GitHub Profile**: [yourusername](https://github.com/yourusername)
+- **Ali jahani**: [alijahani1919@gmail.com](alijahani1919@gmail.com)
+- **GitHub Profile**: [alijahani33](https://github.com/alijahani33)
 
