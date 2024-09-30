@@ -2,12 +2,12 @@
 
 import streamlit as st
 import pandas as pd
-from movie_recommender import recommender
+
 from movie_recommender.constants import MOVIE_DATA_FILE_PATH
 from movie_recommender.recommender import MovieRecommender
 
 # Initialize the movie recommender
-recommender = MovieRecommender(MOVIE_DATA_FILE_PATH)
+recommender_m = MovieRecommender(MOVIE_DATA_FILE_PATH)
 
 # Set the title of the app
 st.title("Movie Recommendation System")
@@ -21,7 +21,7 @@ limit = st.number_input("Number of recommendations:", min_value=1, max_value=30,
 # Button to get recommendations
 if st.button("Get Recommendations"):
     if movie_title:
-        recommended_movies = recommender.get_similar_movies(movie_title, limit)
+        recommended_movies = recommender_m.get_similar_movies(movie_title, limit)
 
         # Check if any movies were found
         if recommended_movies:
