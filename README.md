@@ -11,7 +11,7 @@ The **Movie Recommendation System** is a web-based application that utilizes mac
 - **Data-Driven Insights**: Utilizes a dataset of movies to generate recommendations, ensuring diverse and relevant suggestions.
 
 ## Technologies Used
-
+ 
 - **Python**: Programming language used for backend development.
 - **FastAPI**: Asynchronous web framework for building APIs quickly and efficiently.
 - **Streamlit**: Framework for creating interactive web applications for machine learning and data science projects.
