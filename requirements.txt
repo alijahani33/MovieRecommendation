@@ -1,0 +1,7 @@
+fastapi
+pandas
+scikit-learn
+pydantic
+uvicorn
+setuptools
+unittest
