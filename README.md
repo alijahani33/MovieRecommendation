@@ -1,10 +1,9 @@
 # Movie Recommendation System
 ![Movie Recommendation System](/Images/a.png)
-![Movie Recommendation System](/Images/b.png)
-
 ## Overview
 
 The **Movie Recommendation System** is a web-based application that utilizes machine learning techniques to provide personalized movie recommendations based on user input. Built using **FastAPI** for the backend and **Streamlit** for the frontend, this application offers an intuitive interface for users to discover movies similar to their favorites.
+![Movie Recommendation System](/Images/b.png)
 
 ### Features
 
